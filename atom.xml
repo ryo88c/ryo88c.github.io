@@ -1,113 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>抽象概念建造術</title>
-  <meta name="author" content="Ryo HAYASHI">
-
-  
-  <meta name="description" content="あけましておめでとうございます。「一年の計は元旦にあり」と言いますので、今年一年を通じて遂行すると計画しましたことをこうやって実行するに至りました。
-GitHub にデプロイしましたがコード量はおそらく少なめですし、記事のテーマも技術的ではないことが多くなると思います。 &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><![CDATA[抽象概念建造術]]></title>
+  <link href="http://ryo88c.github.io/atom.xml" rel="self"/>
+  <link href="http://ryo88c.github.io/"/>
+  <updated>2014-01-01T22:22:15+09:00</updated>
+  <id>http://ryo88c.github.io/</id>
+  <author>
+    <name><![CDATA[Ryo HAYASHI]]></name>
+    <email><![CDATA[ryo88c@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-  <link rel="canonical" href="http://ryo88c.github.io">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="抽象概念建造術" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-1631170-7']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">抽象概念建造術</a></h1>
-  
-    <h2>The abstraction will be extend the explainable domain.</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:ryo88c.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/2014/01/01/greetings-of-the-new-year/">Greetings of the New Year</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-01-01T19:48:55+09:00" pubdate data-updated="true">Jan 1<span>st</span>, 2014</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>あけましておめでとうございます。「一年の計は元旦にあり」と言いますので、今年一年を通じて遂行すると計画しましたことをこうやって実行するに至りました。
+  <entry>
+    <title type="html"><![CDATA[Greetings of the New Year]]></title>
+    <link href="http://ryo88c.github.io/2014/01/01/greetings-of-the-new-year/"/>
+    <updated>2014-01-01T19:48:55+09:00</updated>
+    <id>http://ryo88c.github.io/2014/01/01/greetings-of-the-new-year</id>
+    <content type="html"><![CDATA[<p>あけましておめでとうございます。「一年の計は元旦にあり」と言いますので、今年一年を通じて遂行すると計画しましたことをこうやって実行するに至りました。
 GitHub にデプロイしましたがコード量はおそらく少なめですし、記事のテーマも技術的ではないことが多くなると思います。ここは私にとってのゴムで出来たアヒルとして、今後私自身の思考を補助する役目を果たして貰えればと考えております。</p>
 
 <h1>宇宙の形成</h1>
@@ -151,85 +62,7 @@ GitHub にデプロイしましたがコード量はおそらく少なめです�
 知恵なく知識だけを持つ人が自分の立つ地面を照らすためだけに子供と社会の将来を消費し奪う。日本人は地理的要因に依って資源の神格化と人間自体の資源化でもってゆるやかな自己崩壊を続けている。これまで飢饉や戦争に依って免れてきたそれらは、平和によって免疫過剰的反応を示している。</p>
 
 <p>2つの記事はいずれも子供の置かれた状況を用いて如何に自分の選択が優れているかを述べているに過ぎない。教育を否定しつつ教育を語る。教育が失われた国がどこへ向かうのか、考えたくもない。</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/2014/01/01/greetings-of-the-new-year/">Greetings of the New Year</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2014 - Ryo HAYASHI -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) {return;}
-  js = d.createElement(s); js.id = id; js.async = true;
-  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-  <script type="text/javascript">
-    (function() {
-      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
-      script.src = 'https://apis.google.com/js/plusone.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
-    })();
-  </script>
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
